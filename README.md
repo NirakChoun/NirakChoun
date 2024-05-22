@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my personal repository
+- 🔭 I’m currently working on a Black Jack game using HTML/CSS and Javascript
+- 🌱 I’m currently learning Backend Web Development
+- ⚡ Fun fact: I love solo traveling
+
 
 <!--
 **NirakChoun/NirakChoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
