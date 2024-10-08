@@ -1,5 +1,5 @@
 ## Welcome to my personal repository
-- 🔭 I’m currently working on a Black Jack game using HTML/CSS and Javascript
+- 🔭 I’m currently working on Web Development projects
 - 🌱 I’m currently learning Backend Web Development
 - ⚡ Fun fact: I love solo traveling
 
